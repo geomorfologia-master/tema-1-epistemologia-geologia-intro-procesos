@@ -57,5 +57,178 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## <img src="penck.jpg" width="85%">
 
+## <img src="penck_bahoruco.jpg" width="85%">
+
+## <img src="las_mercedes.jpg">
+
+## <img src="penck_pedraza.jpg" width="65%">
+
+## Epistemología (cont.)
+
+* Deriva de los continentes
+
+* Expansión del fondo oceánico
+
+* Tectónica de placas
+
+## <img src="placas.jpg">
+
+## <img src="historia-tectonica-continentes-1.jpg" width="45%">
+
+## <img src="historia-tectonica-continentes-2.jpg" width="45%">
+
+## <img src="reconstruccion-caribe.jpg" width="75%">
+
+## <img src="graficos_evolucion_EW_NS_UD_desde_instalacion_a_20190803.png">
+
+## <img src="descomposicion_y_gam.png">
+
+## <img src="insar_2016_2018_phase.png">
+
+## <img src="insar_2016_2018_displacement.png">
+
+## <img src="falla_normal.jpg">
+
+## <img src="falla_normal_02.jpg">
+
+## <img src="falla_inversa.jpg">
+
+## <img src="falla_inversa_02.jpg">
+
+## <img src="falla_inversa_03.jpg">
+
+## <img src="desgarre.jpg">
+
+## <img src="desgarre_02.jpg">
+
+## <img src="desgarre_03.jpg">
+
+## <img src="anticlinal.jpg" width="55%">
+
+## <img src="anticlinal_02.jpg">
+
+## <img src="diaclasas.png">
+
+## <img src="diaclasas_02.png">
+
+## Minerales
+
+* Según Tarbuck y Lutgens (2000), la definición de mineral es muy controvertida, pero la más aceptada es «__cualquier sólido inorgánico__ (excepcionalmente orgánico) __natural__ que generalmente posee una __estructura interna__ ordenada y una __composición química__ que puede variar según unos límites pre-establecidos»
+
+## Minerales (cont.)
+
+* Por lo tanto la definición se puede descomponer de la siguiente manera:
+
+    * Debe aparecer de forma natural
+    
+    * Debe ser inorgánico
+    
+    * Debe ser un sólido
+    
+    * Debe poseer una estructura interna ordenada, es decir, sus átomos deben estar dispuestos según modelo definido
+    
+    * Debe tener una composición química definida, variable según unos límites convencionalmente aceptados
+
+## Minerales (cont.)
+
+* Según esta definición:
+
+    * Los diamantes sintéticos hechos por los químicos para su incorporación en la punta de brocas y sondas especializadas, no son minerales porque fueron hechos por el ser humano
+    
+    * Es mineral el hielo, pero no el agua líquida
+    
+    * El petróleo no sería un mineral por presentarse siempre en estado líquido
+    
+    * La materia orgánica, tales como huesos, hojarasca, troncos, no son minerales. Ahora bien, si se han convertido en fósiles, su composición podría contener minerales (los fósiles son restos vivos mineralizados)
+
+## Minerales (cont.)
+
+* Silicatados
+
+    * Olivino
+    
+    * Piroxenos
+    
+    * Hornblenda
+    
+    * Micas
+    
+    * Feldespatos
+    
+    * Cuarzo
+
+## <img src="silicatos.jpg" width="65%">
+
+## Minerales (cont.)
+
+* No silicatados
+
+    * Óxidos
+    
+    * Sulfuros
+    
+    * Sulfatos
+    
+    * Elementos nativos
+    
+    * Haluros
+    
+    * Carbonatos
+    
+    * Hidróxidos
+    
+    * Fosfatos
+
+## <img src="no_silicatos.jpg" width="85%">
+
+## Rocas
+
+* Las rocas son cualquier material conformado naturalmente, consolidado o no (pero no suelo), compuesto de dos o más minerales, y ocasionalmente de uno, que tiene un cierto grado de constancia mineral y química
+
+## Rocas (cont.)
+
+* Ígnea o magmática: una de las tres divisiones en que se clasifican las rocas (las otras son sedimentaria y metamórfica)
+
+    * Procede del material fundido denominado magma
+    
+    * Este material es capaz de “intruirse” o “extruirse” formando, rocas intrusivas o extrusivas, respectivamente
+
+## Rocas (cont.)
+    
+* La intrusión supone el emplazamiento gradual de magma en rocas pre-existentes (llamadas también “roca caja”), convirtiéndose la masa solidificada en roca intrusiva
+
+* Las rocas magmáticas extrusivas, suponen la emisión de lava de forma súbita, tal y como ocurre en los volcanes hoy en día. Dicha emisión puede ocurrir de forma subaérea (por encima del foco de emisión se encuentra la atmósfera) o subacuática (por encima del foco de emisión hay una masa de agua)
+
+## <img src="minerales_rocas_igneas.png">
+
+## <img src="basalto.png">
+
+## <img src="granito.png">
+
+## Rocas (cont.)
+
+
+
+## Introducción a procesos
+
+* Los paisajes terrestres se componen principalmente de:
+
+    * Vertientes limitadas por canales
+    
+    * Cimas mayoritariamente convexas hacia arriba
+    
+    * Regolito, alterita, en la superficie, típicamente sobre roca inalterada
+
+## Introducción a procesos (cont.)
+
+* Las vertientes comúnmente producen sedimentos transportados por el __agua__
+
+* El __agua__ circula a través de una red típicamente dendrítica, la cual divide el paisaje en cuencas
+
+* El límite externo de los paisajes terrestres es la costa, desde comienza la geomorfología submarina
+
+## Fuentes cartográficas dominicanas sobre geología y geomorfología
+
+
 ## Referencias
 
