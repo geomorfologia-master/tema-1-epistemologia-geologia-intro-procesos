@@ -102,9 +102,20 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## <img src="descomposicion_y_gam.png">
 
-## <img src="insar_2016_2018_phase.png">
+## <img src="phase_range_formula.jpg">
+@sandwell2011gmtsar
 
-## <img src="insar_2016_2018_displacement.png">
+## <img src="interferograma_temblor_villa_elisa_23_Sept_2018_M5.jpeg">
+
+## <img src="itfg.gif">
+
+<!-- ## <img src="insar_2016_2018_phase.png"> -->
+
+<!-- ## <img src="insar_2016_2018_displacement.png"> -->
+
+## <img src="insar_gps_time_series_plot.jpg">
+
+## <img src="vel_sd.jpg">
 
 # Minerales
 
