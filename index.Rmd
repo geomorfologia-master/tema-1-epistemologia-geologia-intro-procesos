@@ -1,7 +1,7 @@
 ---
 title: "Epistemología, conceptos, bases geológicas, introducción a los procesos de la superficie terrestre"
 author: José Ramón Martínez Batlle
-date: 4 de febrero de 2020
+date: 13 de septiembre de 2020
 output:
   revealjs::revealjs_presentation:
     transition: fade
